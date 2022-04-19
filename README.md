@@ -1,5 +1,5 @@
 # serial-monitor-listener
-
+Simple script that listens on a COM port and writes anything transmitted to a file. 
 
 # Download Python (we used version 3.10)
 https://www.python.org/downloads/
